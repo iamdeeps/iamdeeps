@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepak Behki</h1>
-<h3 align="center">I’m a startup enthusiast with 4+ years of experience as a Full Stack JavaScript Developer. My expertise spans across frameworks such as Angular, React, and Node.js enabling me to effectively bring ideas to life through technical innovation. I thrive in dynamic environments and am passionate about leveraging my technical expertise to drive startup success and foster technological advancements.</h3>
+<h3 align="center">I'm a startup enthusiast with 4+ years as a Full Stack JavaScript Developer. Proficient in Angular, React, and Node.js, I excel in dynamic environments, turning ideas into technical innovations to drive startup success.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamdeeps&label=Profile%20views&color=0e75b6&style=flat" alt="iamdeeps" /> </p>
 
